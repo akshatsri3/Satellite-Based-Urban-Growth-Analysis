@@ -79,7 +79,7 @@ Analyzes VV polarization backscatter intensity.
 - [Arsh Saxena](https://github.com/arshsaxena)
 - [Ayush Raj](https://github.com/)
 - [Anshika Raj](https://github.com/anshika016raj)
-- [Harshita ]
+-  Harshita
 
 ## 📚 References
 
